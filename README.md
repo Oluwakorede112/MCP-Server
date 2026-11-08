@@ -54,7 +54,7 @@ To inspect the server's tool schemas and call its tools using the MCP Inspector:
 
    [http://127.0.0.1:8050/mcp](http://127.0.0.1:8050/mcp)
 
-## Expose the Server with ngrok
+## Expose the Server with ngrok [OPTIONAL]
 
 For temporary external access during development, keep the MCP server running and start ngrok in another terminal:
 
